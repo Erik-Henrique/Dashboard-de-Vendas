@@ -61,11 +61,11 @@ A tela de indicadores do dashboard é composta por:
 #### Capa
 ![Capa](https://i.ibb.co/wrFFxP2/capa.png)
 
-#### Devoluções
-![Devoluções](https://i.ibb.co/41tGrK5/4.png)
+#### Análise de Vendas
+![Análise de Vendas](https://i.ibb.co/k2bpXvC/2.png)
 
 #### Produtos
 ![Produtos](https://i.ibb.co/k28nqNv/3.png)
 
-#### Análise de Vendas
-![Análise de Vendas](https://i.ibb.co/k2bpXvC/2.png)
+#### Devoluções
+![Devoluções](https://i.ibb.co/41tGrK5/4.png)
